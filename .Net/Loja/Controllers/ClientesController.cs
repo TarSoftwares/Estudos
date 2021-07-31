@@ -10,7 +10,7 @@ namespace Loja.Controllers
     public class ClientesController : Controller
     {        
         private readonly BancoDados Banco;
-        public ClientesController(BancoDados _Banco)/*teste versionamento*/
+        public ClientesController(BancoDados _Banco)
         {
             Banco = _Banco;
         }
