@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J1mPsFrfcnyvcn+dpPLF6eI26n3fBdcp0eFyHL92lxNwcfo9IkpnDOChvImzF47zj+Y7147e+qzmPCnVS+Zkmw==",
+  "dgSpecHash": "kHY6yVyCW71uGM+ubG/bUEMqGvrs139/mBQk3JKz5XyaacCcJ9M0YQvVdQkGGcU3/YMznObi2LkrOz2NY5Sowg==",
   "success": true,
-  "projectFilePath": "C:\\Tarso\\Projetos\\.Net\\Loja\\Loja.csproj",
+  "projectFilePath": "C:\\Tarso\\Projetos\\Git\\Estudos\\.Net\\Loja\\Loja.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tarso\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tarso\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

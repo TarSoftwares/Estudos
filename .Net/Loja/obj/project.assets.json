@@ -6012,11 +6012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Tarso\\Projetos\\.Net\\Loja\\Loja.csproj",
+      "projectUniqueName": "C:\\Tarso\\Projetos\\Git\\Estudos\\.Net\\Loja\\Loja.csproj",
       "projectName": "Loja",
-      "projectPath": "C:\\Tarso\\Projetos\\.Net\\Loja\\Loja.csproj",
+      "projectPath": "C:\\Tarso\\Projetos\\Git\\Estudos\\.Net\\Loja\\Loja.csproj",
       "packagesPath": "C:\\Users\\tarso\\.nuget\\packages\\",
-      "outputPath": "C:\\Tarso\\Projetos\\.Net\\Loja\\obj\\",
+      "outputPath": "C:\\Tarso\\Projetos\\Git\\Estudos\\.Net\\Loja\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
