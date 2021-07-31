@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Tarso\\Projetos\\Git\\Estudos\\.Net\\LojaCarros\\LojaCarros\\LojaCarros.csproj": {}
+    "C:\\Tarso\\Projetos\\.Net\\LojaCarros\\LojaCarros\\LojaCarros.csproj": {}
   },
   "projects": {
-    "C:\\Tarso\\Projetos\\Git\\Estudos\\.Net\\LojaCarros\\LojaCarros\\LojaCarros.csproj": {
+    "C:\\Tarso\\Projetos\\.Net\\LojaCarros\\LojaCarros\\LojaCarros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Tarso\\Projetos\\Git\\Estudos\\.Net\\LojaCarros\\LojaCarros\\LojaCarros.csproj",
+        "projectUniqueName": "C:\\Tarso\\Projetos\\.Net\\LojaCarros\\LojaCarros\\LojaCarros.csproj",
         "projectName": "LojaCarros",
-        "projectPath": "C:\\Tarso\\Projetos\\Git\\Estudos\\.Net\\LojaCarros\\LojaCarros\\LojaCarros.csproj",
+        "projectPath": "C:\\Tarso\\Projetos\\.Net\\LojaCarros\\LojaCarros\\LojaCarros.csproj",
         "packagesPath": "C:\\Users\\tarso\\.nuget\\packages\\",
-        "outputPath": "C:\\Tarso\\Projetos\\Git\\Estudos\\.Net\\LojaCarros\\LojaCarros\\obj\\",
+        "outputPath": "C:\\Tarso\\Projetos\\.Net\\LojaCarros\\LojaCarros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

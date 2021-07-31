@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uRBy/716L097VLKDWkJJWnpcoBXNOSZ1BUVdUH1o+u7gwLJ+m8NRnirNFsIklo5vyk0N4cTJ7tTNYV/wo6WuMQ==",
+  "dgSpecHash": "h4zOA0CVgNxDHXM4NKTYPQp/Thm36/qpRl7iK2ZghwZMRPou6EDTSXFky3/oDjOKAJGDoOrSlWHlZLCjbztq3Q==",
   "success": true,
-  "projectFilePath": "C:\\Tarso\\Projetos\\Git\\Estudos\\.Net\\LojaCarros\\LojaCarros\\LojaCarros.csproj",
+  "projectFilePath": "C:\\Tarso\\Projetos\\.Net\\LojaCarros\\LojaCarros\\LojaCarros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tarso\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tarso\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
