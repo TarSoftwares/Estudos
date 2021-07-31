@@ -11,7 +11,7 @@ namespace LojaCarros.Controllers
 {
     public class CarrosController : Controller
     {
-        private readonly Banco _context;/*Teste Versionamento*/
+        private readonly Banco _context;
 
         public CarrosController(Banco context)
         {
