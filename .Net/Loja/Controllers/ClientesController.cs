@@ -14,6 +14,7 @@ namespace Loja.Controllers
         {
             Banco = _Banco;
         }
+        //Rota - retorno por lista não pelo banco
         [Route("Clientes2")]
         [HttpGet]
         public List<Cliente> Clientes()
