@@ -1,0 +1,35 @@
+<title>Teste</title>
+<head>
+<style>   
+    .centro{
+        align-content: center;
+        text-align: center;
+    }
+    .rodape{
+        position: absolute;
+        bottom: 0px;   
+        margin-left: 45%;     
+        margin-right: auto;
+    }
+</style>  
+</head>   
+<h1 class="centro">Meu Primeiro Componente</h1>
+<div class="centro">
+<h2>{{title}}</h2>
+</div>
+<div>
+   <!-- <button id="btnTExto" {click="AlterarTexto()"}></button>-->
+   <button (click)="alterarTexto();">Alterar</button>
+</div>
+<div>
+    <ul>
+        <li *ngFor="let todo of Todos">
+        {{ todo.id }}. {{ todo.title}}   |
+        <button>Concluir</button>|
+         <button>Remover</button></li>        
+    </ul>
+</div>
+
+<div class="rodape">        
+    <h2>TarSoftwares</h2>
+</div>
