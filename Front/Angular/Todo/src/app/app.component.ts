@@ -14,11 +14,28 @@ export class AppComponent {
     this.Todos.push(new Todo(2,false,'dormir'));
     this.Todos.push(new Todo(3,true,'finalizar aula anterior'));     
   }
-  alterarTexto()
+  alterarTexto()  
   {
-    if (this.title === "Teste")
+    if (this.title == "Teste")
       this.title = "Teste dinâmico"
     else
       this.title = "Teste";  
+  }
+  remove(todo : Todo)
+  {
+     const item = this.Todos.indexOf(todo);
+     if (item !== -1)
+     {
+       this.Todos.splice(item,1);
+     }
+     
+  }
+  markAsDone(todo : Todo)
+  {
+    todo.done = true;
+  }
+  markAsUndone(todo : Todo)
+  {
+    todo.done = false;
   }
 }

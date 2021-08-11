@@ -24,9 +24,10 @@
 <div>
     <ul>
         <li *ngFor="let todo of Todos">
-        {{ todo.id }}. {{ todo.title}}   |
-        <button>Concluir</button>|
-         <button>Remover</button></li>        
+        {{ todo.id }}.{{ todo.title}}   |
+        <button *ngIf="!todo.done" (click) = "markAsDone(todo)">Concluir</button>|
+        <button *ngIf="todo.done"  (click) = "markAsUndone(todo)">Refazer</button>|
+         <button (click) = "remove(todo)">Remover</button></li>        
     </ul>
 </div>
 
