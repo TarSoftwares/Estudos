@@ -32,10 +32,10 @@
     </ul>
 </div>
 <div>
-    <form>
+    <form [formGroup] = "form">
         <fieldset>
             <label for="txtTitulo">Tarefa</label><br>
-            <input type="text" placeholder="Digite a Tarefa" id="txtTitulo">
+            <input type="text" placeholder="Digite a Tarefa" id="txtTitulo" maxlength="50">
         </fieldset>
     </form>
 </div>
