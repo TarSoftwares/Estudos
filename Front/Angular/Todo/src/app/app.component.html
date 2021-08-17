@@ -34,8 +34,14 @@
 <div>
     <form [formGroup] = "form">
         <fieldset>
-            <label for="txtTitulo">Tarefa</label><br>
-            <input type="text" placeholder="Digite a Tarefa" id="txtTitulo" maxlength="50">
+            <label for="txtTitulo">Tarefa</label><br> 
+            <input type="text"  
+                placeholder="Digite a Tarefa"
+                id="txtTitulo" 
+                maxlength="50"                 
+                formControlName="title"
+                
+            ><button>Salvar</button>
         </fieldset>
     </form>
 </div>
