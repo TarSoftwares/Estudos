@@ -24,10 +24,10 @@ export class AppComponent {
   }
   alterarTexto()  
   {
-    if (this.title == "Teste")
-      this.title = "Teste dinâmico"
+    if (this.title == "Minhas Tarefas")
+      this.title = "Lista de Tarefas"
     else
-      this.title = "Teste";  
+      this.title = "Minhas Tarefas";  
   }
   remove(todo : Todo)
   {
