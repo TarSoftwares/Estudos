@@ -50,7 +50,9 @@
                 maxlength="50"                 
                 formControlName="title"
                 style="width: 300px;"
-            ><button>Salvar</button>
+            >
+            <small *ngIf="form.controls.title.invalid && !form.controls.title.pristine">O Texto deve ter entre 5 e 60 Caracteres</small>
+            <button [disabled] = "form.invalid">Salvar</button>
         </fieldset>
     </form>
 </div>
