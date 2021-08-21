@@ -1,0 +1,64 @@
+<title>Teste</title>
+<head>
+<style type="text/css">   
+    .centro{
+        align-content: center;
+        text-align: center;       
+        
+    }
+    .corTitulo{
+        background-color: gray;
+    }
+    .rodape{
+        position: absolute;
+        bottom: 0px;   
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+    .borda{
+        border: lightyellow;
+        width: 97%;
+        align-content: center;
+    }
+</style>  
+</head>   
+<h1 class="centro corTitulo">Meu Primeiro Componente</h1>
+<div class="centro">
+<h2>{{title}}</h2>
+</div>
+<div>
+   <!-- <button id="btnTExto" {click="AlterarTexto()"}></button>-->
+   <button (click)="changeText();">Alterar</button>
+</div>
+<div>
+    <ul>
+        <p><small *ngIf="Todos.length == 0;">Não tem nenhuma tarefa</small></p>
+        <li *ngFor="let todo of Todos">
+            {{ todo.id }}.{{ todo.title}}   |
+            <button *ngIf="!todo.done" (click) = "markAsDone(todo)">Concluir</button>|
+            <button *ngIf="todo.done"  (click) = "markAsUndone(todo)">Refazer</button>|
+            <button (click) = "remove(todo)">Remover</button>
+        </li>        
+    </ul>
+</div>
+<div>
+    <form [formGroup] = "form">
+        <fieldset>
+            <label for="txtTitulo">Tarefa</label><br> 
+            <input type="text"  
+                placeholder="Digite a Tarefa"
+                id="txtTitulo" 
+                maxlength="50"                 
+                formControlName="title"
+                style="width: 300px;"
+            >
+            <small *ngIf="form.controls.title.invalid && !form.controls.title.pristine">O Texto deve ter entre 5 e 60 Caracteres</small>
+            <button [disabled] = "form.invalid" (click)="add();">Salvar</button>
+        </fieldset>
+    </form>
+</div>
+
+
+<div class="borda rodape corTitulo">        
+    <h2 class="centro">TarSoftwares</h2>
+</div>
