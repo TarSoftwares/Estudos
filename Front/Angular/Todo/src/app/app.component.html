@@ -28,10 +28,11 @@
 </div>
 <div>
    <!-- <button id="btnTExto" {click="AlterarTexto()"}></button>-->
-   <button (click)="alterarTexto();">Alterar</button>
+   <button (click)="changeText();">Alterar</button>
 </div>
 <div>
     <ul>
+        <p><small *ngIf="Todos.length == 0;">Não tem nenhuma tarefa</small></p>
         <li *ngFor="let todo of Todos">
             {{ todo.id }}.{{ todo.title}}   |
             <button *ngIf="!todo.done" (click) = "markAsDone(todo)">Concluir</button>|
@@ -52,7 +53,7 @@
                 style="width: 300px;"
             >
             <small *ngIf="form.controls.title.invalid && !form.controls.title.pristine">O Texto deve ter entre 5 e 60 Caracteres</small>
-            <button [disabled] = "form.invalid">Salvar</button>
+            <button [disabled] = "form.invalid" (click)="add();">Salvar</button>
         </fieldset>
     </form>
 </div>

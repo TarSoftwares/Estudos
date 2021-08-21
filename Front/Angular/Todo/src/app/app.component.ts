@@ -18,11 +18,21 @@ export class AppComponent {
         Validators.maxLength(50),
         Validators.required])] 
       });
-    this.Todos.push(new Todo(1,false,'estudar'));
-    this.Todos.push(new Todo(2,false,'dormir'));
-    this.Todos.push(new Todo(3,true,'finalizar aula anterior'));     
+    // this.Todos.push(new Todo(1,false,'estudar'));
+    // this.Todos.push(new Todo(2,false,'dormir'));
+    // this.Todos.push(new Todo(3,true,'finalizar aula anterior'));     
   }
-  alterarTexto()  
+  add(){
+    const title = this.form.controls['title'].value;
+    const id    = this.Todos.length + 1 ;
+    this.Todos.push(new Todo(id,false,title));
+    this.clear();
+  }
+  clear(){
+    this.form.reset();
+  }
+
+  changeText()  
   {
     if (this.title == "Minhas Tarefas")
       this.title = "Lista de Tarefas"
