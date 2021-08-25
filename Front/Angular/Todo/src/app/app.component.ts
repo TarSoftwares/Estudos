@@ -9,7 +9,7 @@ import { Todo } from 'src/app/models/todo.models';
 })
 export class AppComponent {
   public Todos : Todo [] = [];  
-  public title : String = "Minhas Tarefas";
+  public title : String = "Tarefas";
   public form : FormGroup;
   constructor(private fb : FormBuilder) {
     this.form = this.fb.group({
@@ -36,10 +36,10 @@ export class AppComponent {
 
   changeText()  
   {
-    if (this.title == "Minhas Tarefas")
+    if (this.title == "Tarefas")
       this.title = "Lista de Tarefas"
     else
-      this.title = "Minhas Tarefas";  
+      this.title = "Tarefas";  
   } 
   save(){
     const data = JSON.stringify(this.Todos);
