@@ -10,6 +10,7 @@ import { Todo } from 'src/app/models/todo.models';
 export class AppComponent {
   public Todos : Todo [] = [];  
   public title : String = "Tarefas";
+  public  mode : String = "list";
   public form : FormGroup;
   constructor(private fb : FormBuilder) {
     this.form = this.fb.group({
@@ -73,5 +74,9 @@ export class AppComponent {
   {
     todo.done = false;
     this.save();
+  }
+  changeMode(mode : String)
+  {
+     this.mode = mode;
   }
 }
