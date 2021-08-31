@@ -43,9 +43,9 @@
         <p><small *ngIf="Todos.length == 0;">Não tem nenhuma tarefa</small></p>
         <li *ngFor="let todo of Todos">
             {{ todo.id }}.{{ todo.title}}   |
-            <button *ngIf="!todo.done" (click) = "markAsDone(todo)">Concluir</button>|
-            <button *ngIf="todo.done"  (click) = "markAsUndone(todo)">Refazer</button>|
-            <button (click) = "remove(todo)">Remover</button>
+            <button *ngIf="!todo.done" (click) = "markAsDone(todo)"><i class="far fa-check-square"></i> </button>|
+            <button *ngIf="todo.done"  (click) = "markAsUndone(todo)"><i class="fas fa-redo"></i></button>|
+            <button (click) = "remove(todo)"><i class="fas fa-trash"></i> </button>
         </li>        
     </ul>
 </div>
@@ -66,11 +66,11 @@
     </form>
 </div>
 <button class="add-button animated fadeInUp button" (click)="changeMode('add')" *ngIf="mode=='list'">
-    <i class="fas fa-plus circle"></i>
+    <i class="fas fa-times"></i>
     CANCELAR
 </button>
 <button class="add-button animated fadeInUp button" (click)="changeMode('list')" *ngIf="mode=='add'" > 
-    <i class="fas fa-times"></i>
+    <i class="fas fa-plus circle"></i>    
     NOVA TAREFA
 </button>
 <br>
