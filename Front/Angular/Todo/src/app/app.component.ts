@@ -1,7 +1,6 @@
-import { Component } from '@angular/core';
+import { Component,ElementRef, ViewChild } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { Todo } from 'src/app/models/todo.models';
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -23,6 +22,10 @@ export class AppComponent {
     // this.Todos.push(new Todo(2,false,'dormir'));
     // this.Todos.push(new Todo(3,true,'finalizar aula anterior'));     
     this.load();
+  } 
+  
+  setFocus() { 
+    // this.txtTitulo.nativeElement.focus(); 
   }
   add(){
     const title = this.form.controls['title'].value;
@@ -32,7 +35,7 @@ export class AppComponent {
     this.clear();
   } 
   clear(){
-    this.form.reset();
+    this.form.reset();    
   }
 
   changeText()  
@@ -78,5 +81,9 @@ export class AppComponent {
   changeMode(mode : String)
   {
      this.mode = mode;
+  }  
+  focu()
+  {
+    this.form.controls.txtTitulo.valueChanges 
   }
 }

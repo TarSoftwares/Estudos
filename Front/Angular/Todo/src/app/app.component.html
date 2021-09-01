@@ -55,13 +55,13 @@
             <label for="txtTitulo">Tarefa</label><br> 
             <input type="text"  
                 placeholder="Digite a Tarefa"
-                id="txtTitulo" 
+                #txtTitulo
                 maxlength="50"                 
                 formControlName="title"
                 style="width: 300px;"
             >
             <small *ngIf="form.controls.title.invalid && !form.controls.title.pristine">O Texto deve ter entre 5 e 60 Caracteres</small>
-            <button [disabled] = "form.invalid" (click)="add();"><i class="far fa-save"></i> Salvar</button>
+            <button [disabled] = "form.invalid" (click)="add();txtTitulo.focus();"><i class="far fa-save"></i> Salvar</button>
         </fieldset> 
     </form>
 </div>
