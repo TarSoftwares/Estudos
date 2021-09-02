@@ -10,6 +10,7 @@ namespace LojaCarros.Models
     [Table("Carros")]
     public class Carro
     {
+        //Teste de Versionamento
         [Key()] 
         public int CarroId { get; set; }
         [MaxLength(50)]
