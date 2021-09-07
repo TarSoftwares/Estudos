@@ -7,8 +7,7 @@ using LojaCarros.Models;
 
     public class Banco : DbContext
     {
-        public Banco (DbContextOptions<Banco> options)
-            : base(options)
+        public Banco (DbContextOptions<Banco> options) : base(options)
         {
         }
 
