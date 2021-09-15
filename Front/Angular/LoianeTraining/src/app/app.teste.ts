@@ -1,10 +1,10 @@
 var teste = 'teste TypeScript';
-function Soma(x,y) {
+function Soma(x : number,y:number) {
         return x + y;
 }
 let pi = 3.14;
 class Matematica{
-    Somar(x,y){
+    Somar(x : number,y : number){
       return x + y;
     }
 }
