@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class CursoDetalheComponent implements OnInit {
 
   constructor() { }
-
+  nome : string = 'Tarso'; 
   ngOnInit(): void {
   }
 
