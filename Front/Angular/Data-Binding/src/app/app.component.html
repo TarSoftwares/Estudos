@@ -1,0 +1,54 @@
+<html lang=”pt-br”>
+<head>
+  <meta charset=”UTF-8”>
+</head>
+<section id="titulo">
+  <article>
+    <h3>Two Way data-binding</h3>
+    <hr>
+    <div class="two-way-binding">
+      <span>{{ title }} app is running!</span>  
+    </div>    
+  </article>   
+</section>
+
+  <div>
+    <input type="text"
+      bindon-ngModel = "nome" 
+    > <br>
+    <input type="text"
+      placeholder="Você digitou {{ nome }}"
+    ><br>
+    <input type="text"
+      [value]= "nome"
+    >
+    <p>Você digitou {{ nome }}</p><br>  
+    <input type="text" id="txtNome" [(ngModel)] = "nome"><br>  
+    <p>A soma de 1 + 1 é {{1 + 1}}</p><br>
+    <label>Número1</label>
+    <input type="text" id="txtNumero2" [(ngModel)] = "num1" ><br>
+    <label>Número2</label>
+    <input type="text" id="txtNumero2" [(ngModel)] = "num2" >  
+    <p>A Soma de {{num1}} e {{ num2 }} é {{somar(num1,num2)}} </p>   
+  </div>
+  <div>
+    <label for="txtPessoaNome">Nome</label>
+    <input type="text" id="txtPessoaNome" [(ngModel)] = "pessoa.nome"><br>
+    <label for="txtPessoaIdade">Idade</label>
+    <input type="text" id="txtPessoaIdade" [(ngModel)]= "pessoa.idade">
+    <p>Meu nome é {{ pessoa.nome }} e eu tenho {{ pessoa.idade }} anos</p><br>
+    <input type="date"  
+        [ngModel]="FormatarData(dataNasc)"         
+        (ngModelChange)="dataNasc = $event"    
+        name="dt"      
+    >
+    
+    <input type="date"       
+      [ngModel]="FormatarData(dataFinal)"         
+      (ngModelChange)="dataFinal = $event"         
+      name="dt2"      
+    ><br>
+    <p>{{ onCalcularData(dataNasc,30) }}</p>   
+   
+  </div>
+</html>

@@ -81,9 +81,5 @@ export class AppComponent {
   changeMode(mode : String)
   {
      this.mode = mode;
-  }  
-  focu()
-  {
-    this.form.controls.txtTitulo.valueChanges 
-  }
+  }   
 }

@@ -1,0 +1,22 @@
+.Titulo{  
+  text-align: center;
+  align-content: center;
+}
+.Rodape{
+    position: absolute;
+    bottom: 0px;
+    /* background-color:black; */
+    /* color : white;  */
+    /* box-shadow: 3px 4px 14px 0px rgba(0,0,0,0.39); */
+    width : 98%;    
+}
+.LinhaRodape{
+  position: relative;
+  bottom: 10px;
+}
+.TextoRodape{
+  text-align: center;
+  align-content: center;
+  position: relative;
+  bottom: 25px;  
+}
