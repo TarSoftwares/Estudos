@@ -11,7 +11,7 @@ export class DataBindingComponent implements OnInit {
   }
   url : string = 'https://loiane.training/';
   urlImagem  : string  = 'http://lorempixel.com/400/200/sports/';
-  urlImagem2 : string  = 'http://lorempixel.com/g/400/200/';
+  urlImagem2 : string  = 'http://lorempixel.com/g/400/200/'; 
   getValor(){
     return 1;
   }
