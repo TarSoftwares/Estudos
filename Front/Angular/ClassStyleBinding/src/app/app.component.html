@@ -27,6 +27,11 @@
         [class.alert-warning] = "classe.value == 'alert-warning'">
         Info
       </div>
+      <div class="alert {{ classe.value }}" role="alert" >Cor da Classe Selecionada</div>
+      <div class="alert alert-danger" role="alert"
+        [style.display]="classe.value == 'alert-danger' ? 'block' : 'none'">
+        Esse Texto aparece somente em caso de Erro
+      </div>
     </article>
   </section>    
 
