@@ -27,7 +27,11 @@
               "src/assets"
             ],
             "styles": [
+<<<<<<< Updated upstream
                "node_modules/bootstrap/dist/css/bootstrap.min.css",
+=======
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+>>>>>>> Stashed changes
               "src/styles.css"
               
             ],
