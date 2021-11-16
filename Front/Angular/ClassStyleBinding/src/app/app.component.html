@@ -12,7 +12,7 @@
         <select #classe (change) = "0">
           <option value="alert-success">Sucesso</option>
           <option value="alert-danger">Erro</option>
-          <option value="alert-warning">Info</option>          
+          <option value="alert-warning">Info</option>             
         </select>                
       </div><br><br>
       <div class="alert" role="alert"
@@ -31,6 +31,11 @@
       <div class="alert alert-danger" role="alert"
         [style.display]="classe.value == 'alert-danger' ? 'block' : 'none'">
         Esse Texto aparece somente em caso de Erro
+      </div>
+    </article>
+    <article>
+      <div>
+        <button class="btn btn-primary">Clique aqui!</button>
       </div>
     </article>
   </section>    

@@ -1,0 +1,34 @@
+   <h1 class="Titulo">    
+      {{ title }} app is running!
+   </h1>
+   <hr><br><br>  
+   <article>
+    <div>
+      <button class="btn btn-primary"
+        (click)="BotaoClicado()">Clique aqui!!
+      </button>
+    </div>
+  </article>
+  <article>
+    <div>
+      <input type="text" 
+        #inp
+        (keyup)="onKeyUp($event)"
+        (keyup.enter)="SalvarValor(inp.value)" 
+        (blur)="SalvarValor(inp.value)"> 
+      <p>
+        ValorAtual :  {{ valorAtual }}
+      </p>
+      <p>
+        ValorSalvo : {{ valorSalvo }}
+      </p>
+      <span
+        (mouseover)="onMouseOver()"
+        (mouseout)="onMouseOver()"
+        [class.highLight] = "isMouseOver">Passe o mouse
+      </span>  
+    </div>
+  </article>
+    
+
+  
