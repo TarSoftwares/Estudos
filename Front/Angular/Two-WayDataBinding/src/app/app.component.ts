@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'TWO-WAY DATA BINDING';
+  nome = 'Maria';
+  Pessoa = {
+    Nome   : "Maria",
+    Idade  : 30
+  }
 }

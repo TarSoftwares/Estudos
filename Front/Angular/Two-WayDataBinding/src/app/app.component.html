@@ -2,4 +2,25 @@
    {{ title }} app is running!
  </p>
  <hr>
+ <p>
+   <input type="text"
+     [(ngModel)] = "nome"
+   />     
+ </p>
+ <p>
+   Meu nome = {{ nome }}
+ </p>
+ <p>
+    <input type="text"
+      placeholder="Meu Nome" [(ngModel)]="Pessoa.Nome"
+    >
+  </p>
+  <p>
+    <input type="text"
+      placeholder="Idade" [(ngModel)]="Pessoa.Idade" 
+    >
+  </p>
+ <p>
+   Meu Nome é {{ Pessoa.Nome }} e tenho {{ Pessoa.Idade }} anos
+ </p>
  
