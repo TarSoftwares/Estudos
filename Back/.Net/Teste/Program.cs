@@ -7,10 +7,10 @@ namespace Teste
     {
         static void Main(string[] args)
         {
-            int idade = 0;
-            int maiorIdade = 18;
-            int idadeLimit = 65;
+            int idade = 25;
             Console.WriteLine("Entre com a Idade");
+            int maiorIdade = 18;
+            int idadeLimit = 70;            
             idade = int.Parse(Console.ReadLine());
             
             if (idade >= maiorIdade && idade <= idadeLimit)
