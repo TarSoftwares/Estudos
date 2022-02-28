@@ -1,0 +1,16 @@
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\bin\Debug\net5.0\Teste.exe
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\bin\Debug\net5.0\Teste.deps.json
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\bin\Debug\net5.0\Teste.runtimeconfig.json
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\bin\Debug\net5.0\Teste.runtimeconfig.dev.json
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\bin\Debug\net5.0\Teste.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\bin\Debug\net5.0\ref\Teste.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\bin\Debug\net5.0\Teste.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\obj\Debug\net5.0\Teste.csproj.AssemblyReference.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\obj\Debug\net5.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\obj\Debug\net5.0\Teste.AssemblyInfoInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\obj\Debug\net5.0\Teste.AssemblyInfo.cs
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\obj\Debug\net5.0\Teste.csproj.CoreCompileInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\obj\Debug\net5.0\Teste.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\obj\Debug\net5.0\ref\Teste.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\obj\Debug\net5.0\Teste.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\Teste\obj\Debug\net5.0\Teste.genruntimeconfig.cache
