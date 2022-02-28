@@ -9,11 +9,11 @@ namespace Teste
         {
             int idade = 0;
             int maiorIdade  = 18;
-            int idadeLimite = 65;
+            int idadeLimit = 65;
             Console.WriteLine("Entre com a Idade");
             idade = int.Parse(Console.ReadLine());
             
-            if (idade >= maiorIdade && idade <= idadeLimite)
+            if (idade >= maiorIdade && idade <= idadeLimit)
             {
                 Console.WriteLine($"Você tem {idade} anos de idade. Pode ser convocado para a Guerra! ");
             }
