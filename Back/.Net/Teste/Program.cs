@@ -5,14 +5,12 @@ namespace Teste
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int idade = 25;
-            Console.WriteLine("Entre com a Idade");
-            int maiorIdade = 18;
-            int idadeLimit = 70;            
-            idade = int.Parse(Console.ReadLine());
-            
+            int maiorIdade = 18;      
+            int idadeLimit = 70;     
+          
             if (idade >= maiorIdade && idade <= idadeLimit)
             {
                 Console.WriteLine($"Você tem {idade} anos de idade. Pode ser convocado para a Guerra! ");
