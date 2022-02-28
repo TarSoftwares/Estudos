@@ -8,7 +8,7 @@ namespace Teste
         static void Main(string[] args)
         {
             int idade = 0;
-            int maiorIdade  = 18;
+            int maiorIdade = 18;
             int idadeLimit = 65;
             Console.WriteLine("Entre com a Idade");
             idade = int.Parse(Console.ReadLine());
