@@ -1,0 +1,16 @@
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\bin\Debug\net5.0\ConsoleSwitch.exe
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\bin\Debug\net5.0\ConsoleSwitch.deps.json
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\bin\Debug\net5.0\ConsoleSwitch.runtimeconfig.json
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\bin\Debug\net5.0\ConsoleSwitch.runtimeconfig.dev.json
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\bin\Debug\net5.0\ConsoleSwitch.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\bin\Debug\net5.0\ref\ConsoleSwitch.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\bin\Debug\net5.0\ConsoleSwitch.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\obj\Debug\net5.0\ConsoleSwitch.csproj.AssemblyReference.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\obj\Debug\net5.0\ConsoleSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\obj\Debug\net5.0\ConsoleSwitch.AssemblyInfoInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\obj\Debug\net5.0\ConsoleSwitch.AssemblyInfo.cs
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\obj\Debug\net5.0\ConsoleSwitch.csproj.CoreCompileInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\obj\Debug\net5.0\ConsoleSwitch.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\obj\Debug\net5.0\ref\ConsoleSwitch.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\obj\Debug\net5.0\ConsoleSwitch.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\ConsoleSwitch\obj\Debug\net5.0\ConsoleSwitch.genruntimeconfig.cache
