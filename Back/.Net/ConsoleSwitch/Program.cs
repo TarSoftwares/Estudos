@@ -28,7 +28,7 @@ namespace ConsoleSwitch
            {
                 case true: Console.WriteLine($"{Nome} é menor de Idade");break;
                 case false: Console.WriteLine($"{Nome} é maior de Idade");break;   
-               default: Console.WriteLine($"{Nome}é menor de Idade");break;
+                default: Console.WriteLine($"{Nome}é menor de Idade");break;
            } 
 
         }
