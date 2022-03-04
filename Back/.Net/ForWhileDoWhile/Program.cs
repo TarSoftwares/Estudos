@@ -10,6 +10,11 @@ namespace ForWhileDoWhile
             Contar50();
             Contar(30);
             Contar(0,45);
+            Console.WriteLine("Entre com o valor Inicial");
+            int inicio = int.Parse(Console.ReadLine());
+            Console.WriteLine("Entre com o valor Final");
+            int fim = int.Parse(Console.ReadLine());
+            ContarDecrescente(inicio, fim);
         }
         static void Contar50()
         {
@@ -33,6 +38,15 @@ namespace ForWhileDoWhile
             {
                 Console.WriteLine($"Atual {cont}");
                 cont++;
+            }
+        }
+        static void ContarDecrescente(int inicio,int fim)
+        {
+            int Inicio = inicio;
+            int Fim = fim;
+            for (int cont = Fim; cont >= Inicio; cont--)
+            {
+                Console.WriteLine($"Valor Atual {cont}");
             }
         }
     }
