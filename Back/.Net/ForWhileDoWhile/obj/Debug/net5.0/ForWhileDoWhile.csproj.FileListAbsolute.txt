@@ -1,0 +1,16 @@
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\bin\Debug\net5.0\ForWhileDoWhile.exe
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\bin\Debug\net5.0\ForWhileDoWhile.deps.json
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\bin\Debug\net5.0\ForWhileDoWhile.runtimeconfig.json
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\bin\Debug\net5.0\ForWhileDoWhile.runtimeconfig.dev.json
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\bin\Debug\net5.0\ForWhileDoWhile.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\bin\Debug\net5.0\ref\ForWhileDoWhile.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\bin\Debug\net5.0\ForWhileDoWhile.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\obj\Debug\net5.0\ForWhileDoWhile.csproj.AssemblyReference.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\obj\Debug\net5.0\ForWhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\obj\Debug\net5.0\ForWhileDoWhile.AssemblyInfoInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\obj\Debug\net5.0\ForWhileDoWhile.AssemblyInfo.cs
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\obj\Debug\net5.0\ForWhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\obj\Debug\net5.0\ForWhileDoWhile.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\obj\Debug\net5.0\ref\ForWhileDoWhile.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\obj\Debug\net5.0\ForWhileDoWhile.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\ForWhileDoWhile\obj\Debug\net5.0\ForWhileDoWhile.genruntimeconfig.cache
