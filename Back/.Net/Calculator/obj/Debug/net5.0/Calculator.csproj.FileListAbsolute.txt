@@ -1,0 +1,16 @@
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
