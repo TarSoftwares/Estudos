@@ -4,6 +4,7 @@ namespace Calculator
 {
     class Program
     {
+        int Num1 = 0;
         static void Main(string[] args)
         {    
             Menu();           
@@ -18,10 +19,7 @@ namespace Calculator
             Console.WriteLine("              2- SUTRAIR                        ");
             Console.WriteLine("              3- MULTIPLICAR                    ");
             Console.WriteLine("              4- DIVIDIR                        ");
-            Console.WriteLine("              5- SAIR                           ");
-            // Console.WriteLine("================================================");
-            // Console.WriteLine("              TARSOFTWARES                      ");
-            // Console.WriteLine("================================================");   
+            Console.WriteLine("              5- SAIR                           ");              
            Console.WriteLine("Entre com a Operação");          
            var Operacao = int.Parse(Console.ReadLine());
            switch (Operacao)
@@ -56,7 +54,7 @@ namespace Calculator
                     Menu();
                     break;
                } 
-           }
+           }           
            Console.WriteLine("Entre com o 1º Número");
            var Num1 = float.Parse(Console.ReadLine());
            Console.WriteLine("Entre com o 2º Número");
