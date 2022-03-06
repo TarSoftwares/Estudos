@@ -5,12 +5,12 @@ namespace Calculator
     class Program
     {
         static void Main(string[] args)
-        {     
-           Console.Clear();         
-           Menu();           
+        {    
+            Menu();           
         }
         static void Menu()
         {
+            Console.Clear();         
             Console.WriteLine("================================================");
             Console.WriteLine("          C A L C U L A D O R A                 ");
             Console.WriteLine("================================================");
@@ -45,6 +45,11 @@ namespace Calculator
                {
                     Console.WriteLine("         1- DIVIDIR            ");break;                                                
                } 
+               case 5 :
+               {
+                    System.Environment.Exit(0);
+                    break;                                                
+               } 
 
                default:
                {
@@ -77,12 +82,7 @@ namespace Calculator
                {
                     Dividir(Num1,Num2);
                     break;
-               } 
-               case 5:
-               {
-                   System.Environment.Exit(0);
-                   break;
-               }
+               }              
 
                default:
                {
