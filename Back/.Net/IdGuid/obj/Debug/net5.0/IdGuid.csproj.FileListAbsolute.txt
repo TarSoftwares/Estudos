@@ -1,0 +1,16 @@
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\obj\Debug\net5.0\IdGuid.csproj.AssemblyReference.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\obj\Debug\net5.0\IdGuid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\obj\Debug\net5.0\IdGuid.AssemblyInfoInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\obj\Debug\net5.0\IdGuid.AssemblyInfo.cs
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\obj\Debug\net5.0\IdGuid.csproj.CoreCompileInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\bin\Debug\net5.0\IdGuid.exe
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\bin\Debug\net5.0\IdGuid.deps.json
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\bin\Debug\net5.0\IdGuid.runtimeconfig.json
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\bin\Debug\net5.0\IdGuid.runtimeconfig.dev.json
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\bin\Debug\net5.0\IdGuid.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\bin\Debug\net5.0\ref\IdGuid.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\bin\Debug\net5.0\IdGuid.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\obj\Debug\net5.0\IdGuid.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\obj\Debug\net5.0\ref\IdGuid.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\obj\Debug\net5.0\IdGuid.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\IdGuid\obj\Debug\net5.0\IdGuid.genruntimeconfig.cache
