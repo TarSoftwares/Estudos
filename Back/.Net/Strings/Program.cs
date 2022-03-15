@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Strings
 {
@@ -19,6 +20,19 @@ namespace Strings
             Console.WriteLine(Teste4.EndsWith("fim"));
             var Teste5 = "Comparando Texto Exato";
             Console.WriteLine(Teste5.Equals("Comparando Texto Exato"));
+            var Frase = "Corinthians";            
+            Console.WriteLine(Frase.Insert(Frase.Length," é o melhor time do mundo!"));
+            Console.WriteLine(Frase.Insert(Frase.Length," é o melhor time do mundo!").ToLower());
+            Console.WriteLine(Frase.Insert(Frase.Length," é o melhor time do mundo!").ToUpper());
+            var Frase1 = "Hoje está chovendo";
+            int qtdeCaracteresEspaco = Frase1.Count(f => f == ' ');
+            Console.WriteLine($"Total de caracteres ' ' {qtdeCaracteresEspaco}");
+            // for (int i = 0 ; qtdeCaracteresEspaco; i++)
+            // {
+            //     Frase1.Split(" ",)
+            // }                    
+            
+           
         }
     }
 }
