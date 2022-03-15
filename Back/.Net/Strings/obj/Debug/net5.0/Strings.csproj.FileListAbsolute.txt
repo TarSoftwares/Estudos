@@ -1,0 +1,16 @@
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\bin\Debug\net5.0\Strings.exe
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\bin\Debug\net5.0\Strings.deps.json
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\bin\Debug\net5.0\Strings.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\bin\Debug\net5.0\ref\Strings.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\bin\Debug\net5.0\Strings.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\obj\Debug\net5.0\Strings.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\obj\Debug\net5.0\ref\Strings.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\obj\Debug\net5.0\Strings.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache
