@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Text;
 
 namespace Strings
 {
@@ -27,11 +28,13 @@ namespace Strings
             var Frase1 = "Hoje está chovendo";
             int qtdeCaracteresEspaco = Frase1.Count(f => f == ' ');
             Console.WriteLine($"Total de caracteres ' ' {qtdeCaracteresEspaco}");
-            // for (int i = 0 ; qtdeCaracteresEspaco; i++)
-            // {
-            //     Frase1.Split(" ",)
-            // }                    
-            
+            var Texto = new StringBuilder();
+            Texto.Append("1ª Linha \n");
+            Texto.Append("2ª Linha \n");
+            Texto.Append("3ª Linha \n");
+            Texto.Append("4ª Linha \n");
+            Texto.Append("5ª Linha \n");
+            Console.WriteLine(Texto.ToString());
            
         }
     }
