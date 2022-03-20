@@ -1,0 +1,16 @@
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\bin\Debug\net5.0\MegaSena.exe
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\bin\Debug\net5.0\MegaSena.deps.json
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\bin\Debug\net5.0\MegaSena.runtimeconfig.json
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\bin\Debug\net5.0\MegaSena.runtimeconfig.dev.json
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\bin\Debug\net5.0\MegaSena.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\bin\Debug\net5.0\ref\MegaSena.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\bin\Debug\net5.0\MegaSena.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\obj\Debug\net5.0\MegaSena.csproj.AssemblyReference.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\obj\Debug\net5.0\MegaSena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\obj\Debug\net5.0\MegaSena.AssemblyInfoInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\obj\Debug\net5.0\MegaSena.AssemblyInfo.cs
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\obj\Debug\net5.0\MegaSena.csproj.CoreCompileInputs.cache
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\obj\Debug\net5.0\MegaSena.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\obj\Debug\net5.0\ref\MegaSena.dll
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\obj\Debug\net5.0\MegaSena.pdb
+C:\Tarso\Projetos\Estudos\Back\.Net\MegaSena\obj\Debug\net5.0\MegaSena.genruntimeconfig.cache
