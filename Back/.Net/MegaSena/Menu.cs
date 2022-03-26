@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 namespace MegaSena
 {
-    class Menu{        
+        class Menu{        
         public static List<Int32> dezenas = new List<Int32>();
         public static Int32 opcao = new Int32();        
         public static Int32 Opcao
@@ -24,6 +24,18 @@ namespace MegaSena
         {           
             
         }
+        ///<summary>Método responsável por Exibir o Jogo(Dezenas)      
+        ///</summary>
+        ///<param></param>
+        ///<returns>Método não tem retorno(void)</returns>
+        ///<remarks>
+        /// <para>************M E N U*********"</para>          
+        /// <para>                             </para>
+        /// <para>       1 - Gerar  Dezenas"   </para>
+        /// <para>       2 - Exibir Dezenas    </para>
+        /// <para>       3 - Salvar Dezenas    </para>
+        /// <para>       4 - Sair              </para>
+        ///</remarks>
         public static void Exibir ()
         {                     
             Console.WriteLine("************M E N U*********");          
