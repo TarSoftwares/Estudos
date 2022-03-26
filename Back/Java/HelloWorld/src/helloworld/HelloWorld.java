@@ -30,8 +30,7 @@ public class HelloWorld
         System.out.println("1-Ler Frase");
         System.out.println("2-Exibir Frase");
         System.out.println("3-Sair");        
-        Integer Opcao = scannerMenu.nextInt();
-        /*Teste Versionamento*/
+        Integer Opcao = scannerMenu.nextInt();       
         switch (Opcao) 
         {
             case 1: 
