@@ -22,8 +22,7 @@ public class HelloWorld
         menu(); 
     }
 
-    public static void menu() throws AssertionError {
-        // TODO code application logic here
+    public static void menu() throws AssertionError {       
         Scanner scannerMenu  = new Scanner(System.in);
         Scanner scannerFrase = new Scanner(System.in);        
         System.out.println("******M E N U **********");
